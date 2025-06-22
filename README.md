@@ -28,6 +28,6 @@
 ### 🌱 I’m currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br><br>
+<br>
 
 > “Anytime someone tells me that I can’t do something, I want to do it more. ”
