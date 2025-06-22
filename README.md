@@ -1,6 +1,6 @@
 ## 👋 안녕하세요, 사용자의 편의성을 끊임없이 고려하는 채수경입니다.
 
---
+---
 
 ### 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -10,11 +10,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
---
+---
 
 ### 📌 Projects
 - [소스윗 프로젝트](https://github.com/dnwls6102/SoSweet): 팀 프로젝트, UI/UX 기획&프론트
 - [헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle): 팀 프로젝트, UI/UX 기획&프론트
+- 
+| 프로젝트 | 설명 | 사용 기술 |
+|----------|------|-----------|
+| **[소스윗 프로젝트](https://github.com/dnwls6102/SoSweet)** | AI 기반 소개팅 코칭 서비스 | Next.js, React, Figma, Git |
+| **[헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle)** | 운동 기록을 공유하는 서비스 | HTML, CSS, JavaScript, Python |
 
 
 ### 🌱 I’m currently learning
