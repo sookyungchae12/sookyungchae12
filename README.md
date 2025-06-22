@@ -5,7 +5,6 @@
 - 🤝 동료들과 함께 협업하며 함께 성장하고 싶습니다.  
 - 💡 작은 아이디어라도 실현하여 사회와 회사에 긍정적인 변화를 만드는 데 기여하고 싶습니다.
 
-<br>
 
 ## 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -15,19 +14,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
 
-### 📌 Projects
+## 📌 Projects
 | 프로젝트 | 설명 | 사용 기술 |
 |----------|------|-----------|
 | **[소스윗 프로젝트](https://github.com/dnwls6102/SoSweet)** | AI 기반 소개팅 코칭 서비스 | Next.js, React, TypeScript, Figma, Git |
 | **[헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle)** | 운동 기록을 공유하는 서비스 | HTML, CSS, JavaScript, Python |
 
-<br>
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br>
 
 > “Anytime someone tells me that I can’t do something, I want to do it more. ”
