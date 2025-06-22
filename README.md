@@ -17,7 +17,7 @@
 
 <br>
 
-## 📌 Projects
+## 📁 Projects
 | 프로젝트 | 설명 | 사용 기술 |
 |----------|------|-----------|
 | **[소스윗 프로젝트](https://github.com/dnwls6102/SoSweet)** | AI 기반 소개팅 코칭 서비스 | Next.js, React, TypeScript, Figma, Git |
