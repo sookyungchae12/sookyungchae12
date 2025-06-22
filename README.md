@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 안녕하세요, 사용자의 편의성을 끊임없이 고려하는 채수경입니다.
 
-<!--
-**sookyungchae12/sookyungchae12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
+### 📌 Projects
+- [소스윗 프로젝트](https://github.com/dnwls6102/SoSweet): 팀 프로젝트, UI/UX 기획&프론트
+- [헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle): 팀 프로젝트, UI/UX 기획&프론트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
