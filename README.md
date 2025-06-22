@@ -8,9 +8,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
 ### 📌 Projects
 - [소스윗 프로젝트](https://github.com/dnwls6102/SoSweet): 팀 프로젝트, UI/UX 기획&프론트
 - [헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle): 팀 프로젝트, UI/UX 기획&프론트
 
+
 ### 🌱 I’m currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+> “작은 성장의 반복이 더 큰 변화를 만듭니다.”
