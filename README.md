@@ -20,8 +20,8 @@
 ## 📁 Projects
 | 프로젝트 | 설명 | 사용 기술 |
 |----------|------|-----------|
-| **[소스윗 프로젝트](https://github.com/dnwls6102/SoSweet)** | AI 기반 소개팅 코칭 서비스 | Next.js, React, TypeScript, Figma, Git |
-| **[헬시정글 프로젝트](https://github.com/goplayzig/HealthJungle)** | 운동 기록을 공유하는 서비스 | HTML, CSS, JavaScript, Python |
+| **[소스윗 So Sweet](https://github.com/dnwls6102/SoSweet)** | AI 기반 소개팅 코칭 서비스 | Next.js, React, TypeScript, Figma, Git |
+| **[헬시정글 Healthy Jungle](https://github.com/goplayzig/HealthJungle)** | 운동 기록을 공유하는 서비스 | HTML, CSS, JavaScript, Python |
 
 <br>
 
