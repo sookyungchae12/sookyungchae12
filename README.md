@@ -28,6 +28,6 @@
 ### 🌱 I’m currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
+<br><br>
 
 > “시작은 미약하나 그 끝은 창대하리라.”
