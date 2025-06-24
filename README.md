@@ -4,6 +4,10 @@
 - 💪 맡은 일은 끝까지 책임지고 해내는 끈기와 성실함을 갖추고 있습니다. 
 - 🤝 동료들과 함께 협업하며 함께 성장하고 싶습니다.  
 - 💡 작은 아이디어라도 실현하여 사회와 회사에 긍정적인 변화를 만드는 데 기여하고 싶습니다.
+  <br>
+
+**[포트폴리오](https://www.canva.com/design/DAGp9u9Cmh8/YMzcMZlqgcgI5UUnJurtIg/view?utm_content=DAGp9u9Cmh8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h137fa51bf2)**
+☝️보러가기
 
 <br>
 
